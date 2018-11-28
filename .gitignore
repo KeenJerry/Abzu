@@ -1,3 +1,5 @@
 idea/
 venv/*
 Abzu/__pycache__/*
+.python-version
+db.sqlite3
